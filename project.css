@@ -5,12 +5,6 @@
     height: 100px;
     overflow: hidden;
 
-
-
-
-
-
-
 }
 
 
@@ -18,7 +12,8 @@
 
 .cm1 {
     width: 33%;
-
+    position: sticky;
+    top: 0px;
 
     color: aliceblue;
     font-style: oblique;
@@ -91,8 +86,7 @@ li button {
     width: 50%;
     position: relative;
     left: 300px;
-    top:-190px
-
+    top: -190px
 }
 
 
